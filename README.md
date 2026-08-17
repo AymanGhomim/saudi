@@ -20,5 +20,4 @@ npm test
 npm run lint
 ```
 
-The website source is under `app/`, static media is under `public/media/`, and
-the Cloudflare worker entry point is under `worker/`.
+The website source is under `app/`, and static media is under `public/media/`.
